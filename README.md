@@ -11,7 +11,7 @@ Este projeto foi desenvolvido para cumprir o desafio de automatizar testes de AP
 
 **Inicializando**
 * Clone o repositorio:
-* git clone 
+* git clone https://github.com/DiegoCMachado/pagbrasil
 
 **Rodar projeto**:
 * npm install
